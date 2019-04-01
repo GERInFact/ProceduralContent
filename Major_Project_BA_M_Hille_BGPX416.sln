@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Major_Project_BA_M_Hille_BGPX416", "Major_Project_BA_M_Hille_BGPX416.csproj", "{23B550D2-95ED-BCCE-9589-A93249D6E235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Major_Project_BA_M_Hille_BGPX416.Editor", "Major_Project_BA_M_Hille_BGPX416.Editor.csproj", "{0F405AB8-827A-348A-5E26-72AFA406A31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B550D2-95ED-BCCE-9589-A93249D6E235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B550D2-95ED-BCCE-9589-A93249D6E235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B550D2-95ED-BCCE-9589-A93249D6E235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B550D2-95ED-BCCE-9589-A93249D6E235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F405AB8-827A-348A-5E26-72AFA406A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F405AB8-827A-348A-5E26-72AFA406A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F405AB8-827A-348A-5E26-72AFA406A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F405AB8-827A-348A-5E26-72AFA406A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

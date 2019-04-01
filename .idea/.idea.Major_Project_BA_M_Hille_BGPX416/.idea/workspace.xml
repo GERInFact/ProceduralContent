@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0e0a81e-7e4d-47cd-80e9-8216d26f42e8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NoiseGenerator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/NoiseGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <marker date="1540535664989" expanded="true" signature="0:66" ph="##region" />
+                <marker date="1540535664989" expanded="false" signature="15:54" ph="..." />
+                <marker date="1540535664989" expanded="true" signature="92:1493" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="126:1491" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="141:341" ph="fields" />
+                <marker date="1540535664989" expanded="true" signature="351:689" ph="constructor" />
+                <marker date="1540535664989" expanded="true" signature="403:423" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="515:669" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="699:1485" ph="methods" />
+                <marker date="1540535664989" expanded="true" signature="752:805" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="872:986" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="1054:1465" ph="{...}" />
+                <marker date="1540535664989" expanded="true" signature="1149:1424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Polygon.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Polygon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <marker date="1540535213688" expanded="true" signature="0:39" ph="##region" />
+                <marker date="1540535213688" expanded="true" signature="77:2078" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="112:2076" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="245:540" ph="properties" />
+                <marker date="1540535213688" expanded="true" signature="295:388" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="421:520" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="550:2070" ph="abstract_methods" />
+                <marker date="1540535213688" expanded="true" signature="635:741" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="788:1185" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="920:1175" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="1233:1784" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="1352:1587" ph="/* define shape, based on calculated vertices ... */" />
+                <marker date="1540535213688" expanded="true" signature="1640:1774" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="1830:1850" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="1897:1917" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="1959:1979" ph="{...}" />
+                <marker date="1540535213688" expanded="true" signature="2030:2050" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeometricTriangle.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/GeometricTriangle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="35" />
+              <folding>
+                <marker date="1540535289999" expanded="true" signature="0:73" ph="##region" />
+                <marker date="1540535289999" expanded="false" signature="15:61" ph="..." />
+                <marker date="1540535289999" expanded="true" signature="104:859" ph="{...}" />
+                <marker date="1540535289999" expanded="true" signature="142:857" ph="{...}" />
+                <marker date="1540535289999" expanded="true" signature="459:650" ph="{...}" />
+                <marker date="1540535289999" expanded="true" signature="706:851" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heightmap.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/Heightmap.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <marker date="1540535665020" expanded="true" signature="29:862" ph="{...}" />
+                <marker date="1540535665020" expanded="true" signature="58:860" ph="{...}" />
+                <marker date="1540535665020" expanded="true" signature="73:307" ph="methods" />
+                <marker date="1540535665020" expanded="true" signature="159:287" ph="{...}" />
+                <marker date="1540535665020" expanded="true" signature="317:487" ph="properties" />
+                <marker date="1540535665020" expanded="true" signature="497:854" ph="contructor" />
+                <marker date="1540535665020" expanded="true" signature="543:644" ph="{...}" />
+                <marker date="1540535665020" expanded="true" signature="717:834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Shape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+              <folding>
+                <marker date="1540536359869" expanded="true" signature="0:141" ph="##region" />
+                <marker date="1540536359869" expanded="true" signature="15:129" ph="..." />
+                <marker date="1540536359869" expanded="true" signature="179:6232" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="362:6230" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="377:626" ph="fields" />
+                <marker date="1540536359869" expanded="true" signature="636:1316" ph="properties" />
+                <marker date="1540536359869" expanded="true" signature="1326:4381" ph="abstractMethods" />
+                <marker date="1540536359869" expanded="true" signature="1359:1451" ph="///     set the meshs vertex and triangle count ... " />
+                <marker date="1540536359869" expanded="true" signature="1522:1611" ph="///     calculates the meshs verticies order ... " />
+                <marker date="1540536359869" expanded="true" signature="1668:1782" ph="///     calculates triangle order based on the mesh's verticies order ... " />
+                <marker date="1540536359869" expanded="true" signature="1966:3670" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="2329:3606" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="3778:4309" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="3915:4299" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="4391:6224" ph="methods" />
+                <marker date="1540536359869" expanded="true" signature="4416:4527" ph="///     handles essential mesh calculations (verts, tris, uvs,...) ... " />
+                <marker date="1540536359869" expanded="true" signature="4568:4790" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="4858:4982" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="4992:5086" ph="///     initialises mesh filter and mesh renderer ... " />
+                <marker date="1540536359869" expanded="true" signature="5127:5367" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="5378:5488" ph="///     applies mesh data to the actual unity mesh to be rendered ... " />
+                <marker date="1540536359869" expanded="true" signature="5551:5913" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="5978:6056" ph="{...}" />
+                <marker date="1540536359869" expanded="true" signature="6126:6204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Manager/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding>
+                <marker date="1540535289994" expanded="true" signature="0:66" ph="##region" />
+                <marker date="1540535289994" expanded="false" signature="15:54" ph="..." />
+                <marker date="1540535289994" expanded="true" signature="94:1249" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="212:1247" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="275:313" ph="properties" />
+                <marker date="1540535289994" expanded="true" signature="323:652" ph="unity_methods" />
+                <marker date="1540535289994" expanded="true" signature="413:494" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="569:632" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="662:1241" ph="methods" />
+                <marker date="1540535289994" expanded="true" signature="687:797" ph="///     applies all essential procedures for rendering the meshes ... " />
+                <marker date="1540535289994" expanded="true" signature="844:1046" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="907:1034" ph="{...}" />
+                <marker date="1540535289994" expanded="true" signature="1099:1221" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quad.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Quad.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1533379528216" expanded="true" signature="36:1242" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="68:1240" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="83:453" ph="methods" />
+                <marker date="1533379528216" expanded="true" signature="143:433" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="463:1234" ph="abstract_methods" />
+                <marker date="1533379528216" expanded="true" signature="548:628" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="675:761" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="809:948" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="994:1014" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="1061:1081" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="1123:1143" ph="{...}" />
+                <marker date="1533379528216" expanded="true" signature="1194:1214" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cuboid.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Cuboid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <marker date="1540535213783" expanded="true" signature="0:61" ph="##region" />
+                <marker date="1540535213783" expanded="false" signature="15:49" ph="..." />
+                <marker date="1540535213783" expanded="true" signature="99:7072" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="133:7070" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="148:231" ph="properties" />
+                <marker date="1540535213783" expanded="true" signature="241:558" ph="fields" />
+                <marker date="1540535213783" expanded="true" signature="568:1939" ph="abstract_Methods" />
+                <marker date="1540535213783" expanded="true" signature="653:930" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="694:888" ph="/* 6 faces * (3 vertices / triangle) * (2 triangles / face) =&gt; 36, ... */" />
+                <marker date="1540535213783" expanded="true" signature="977:1023" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1070:1467" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1515:1653" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1699:1719" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1766:1786" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1828:1848" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1899:1919" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="1949:7064" ph="methods" />
+                <marker date="1540535213783" expanded="true" signature="2009:2533" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="2578:3024" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="3068:3592" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="3635:4159" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="4203:4727" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="4773:5297" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="5337:5403" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="5444:5916" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="5952:6783" ph="{...}" />
+                <marker date="1540535213783" expanded="true" signature="6826:7044" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tetrahedron.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Tetrahedron.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <marker date="1533379531192" expanded="true" signature="36:1397" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="75:1395" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="141:296" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="343:937" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="985:1123" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="1169:1189" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="1236:1256" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="1298:1318" ph="{...}" />
+                <marker date="1533379531192" expanded="true" signature="1369:1389" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Landscape.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/3D_Landscape/Landscape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <marker date="1540535213712" expanded="true" signature="0:107" ph="##region" />
+                <marker date="1540535213712" expanded="false" signature="15:95" ph="..." />
+                <marker date="1540535213712" expanded="true" signature="156:3129" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="197:3127" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="212:584" ph="fields" />
+                <marker date="1540535213712" expanded="true" signature="594:2120" ph="abstract methods" />
+                <marker date="1540535213712" expanded="true" signature="679:827" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="874:1047" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="1095:1515" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="1218:1505" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="1287:1462" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="1557:1801" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="1852:2100" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="2130:3121" ph="methods" />
+                <marker date="1540535213712" expanded="true" signature="2207:2682" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="2361:2672" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="2738:2883" ph="{...}" />
+                <marker date="1540535213712" expanded="true" signature="2937:3101" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setvertexand</find>
+      <find>0</find>
+      <find>1</find>
+      <find>2</find>
+      <find>3</find>
+      <find>4</find>
+      <find>5</find>
+      <find>6</find>
+      <find>7</find>
+      <find>setverte</find>
+      <find>meshRenderer.material = this._material;</find>
+      <find>va</find>
+      <find>val</find>
+      <find>vali</find>
+      <find>valida</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/NormalDisplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Manager/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/PrismVertexColors.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Quad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AssetStore/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Cuboid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Tetrahedron.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Polygon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Triangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/2D_Landscapes/Terrain2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Interfaces/ISceneRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/GeometricTriangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/Heightmap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/SceneCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/3D_Landscape/Landscape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/ArbitraryPrism.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/NoiseGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Scripts/TriangleContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Quad.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Polygon.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tetrahedron.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shape.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/NormalDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/MeshCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Interfaces/IMeshRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Triangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Cuboid.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Polygon.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Tetrahedron.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Quad.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Shape.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/NormalDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/ArbitraryPrism.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/ExposableInterfaceWrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/WaveDensity.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/Wave.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ShapeStructures/GeometricTriangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/ArbitraryPrism.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Manager/SceneCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Structures/GeometricTriangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Structures/Wave.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/SceneCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PrismVertexColors.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Manager/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Interfaces/ISceneRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Triangle.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/2D_Landscapes/Terrain2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Polygon.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Quad.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/3D_Landscape/Landscape.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Tetrahedron.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Tools/NoiseGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Structures/Heightmap.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Shape.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Structures" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shapes" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Terrain" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shapes" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Primitives" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manager" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Scripts" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interfaces" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Major_Project_BA_M_Hille_BGPX416 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeCleanupOptionsPage" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e0a81e-7e4d-47cd-80e9-8216d26f42e8" name="Default" comment="" />
+      <created>1515587234336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515587234336</updated>
+      <workItem from="1515587239796" duration="23000" />
+      <workItem from="1515587333657" duration="3435000" />
+      <workItem from="1515591939270" duration="322000" />
+      <workItem from="1515592357158" duration="2532000" />
+      <workItem from="1515599462604" duration="3740000" />
+      <workItem from="1515603432638" duration="2323000" />
+      <workItem from="1515665586292" duration="10618000" />
+      <workItem from="1515687507577" duration="330000" />
+      <workItem from="1515752748123" duration="179000" />
+      <workItem from="1515752946190" duration="8536000" />
+      <workItem from="1515766334304" duration="4581000" />
+      <workItem from="1515833535382" duration="179000" />
+      <workItem from="1515833734885" duration="11580000" />
+      <workItem from="1515944172580" duration="6169000" />
+      <workItem from="1516011230991" duration="112000" />
+      <workItem from="1516015811784" duration="2300000" />
+      <workItem from="1516094527549" duration="5069000" />
+      <workItem from="1516110337180" duration="3891000" />
+      <workItem from="1516196680044" duration="482000" />
+      <workItem from="1516197981183" duration="1637000" />
+      <workItem from="1516262705632" duration="1121000" />
+      <workItem from="1518244195718" duration="89000" />
+      <workItem from="1519553981990" duration="827000" />
+      <workItem from="1520591403775" duration="2830000" />
+      <workItem from="1520596224078" duration="4233000" />
+      <workItem from="1520600668798" duration="2693000" />
+      <workItem from="1520868371211" duration="1284000" />
+      <workItem from="1521106345589" duration="1752000" />
+      <workItem from="1521136843621" duration="271000" />
+      <workItem from="1521187956582" duration="3495000" />
+      <workItem from="1521279784236" duration="526000" />
+      <workItem from="1521289924352" duration="2096000" />
+      <workItem from="1521356692895" duration="3087000" />
+      <workItem from="1522738410254" duration="8077000" />
+      <workItem from="1522844189699" duration="6966000" />
+      <workItem from="1522937321743" duration="18000" />
+      <workItem from="1522937435361" duration="9746000" />
+      <workItem from="1523778866716" duration="2153000" />
+      <workItem from="1523782647413" duration="148000" />
+      <workItem from="1523965806720" duration="403000" />
+      <workItem from="1525256208936" duration="1838000" />
+      <workItem from="1529124006128" duration="4000" />
+      <workItem from="1529124069312" duration="1786000" />
+      <workItem from="1529476444719" duration="7000" />
+      <workItem from="1529476467130" duration="347000" />
+      <workItem from="1530527818658" duration="10912000" />
+      <workItem from="1530606763731" duration="4201000" />
+      <workItem from="1530803861091" duration="61000" />
+      <workItem from="1531827855303" duration="692000" />
+      <workItem from="1533377830563" duration="297000" />
+      <workItem from="1533378152147" duration="1441000" />
+      <workItem from="1540534976471" duration="1389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142828000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/PrismVertexColors.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shape.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shape.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Quad.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Polygon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shape.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tetrahedron.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/NormalDisplayer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Tetrahedron.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Cuboid.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Shape.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/ExposableInterfaceWrapper.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Polygon.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Quad.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/ArbitraryPrism.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Triangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Manager/SceneCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/Wave.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/ShapeStructures/GeometricTriangle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AssetStore/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/SceneCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1E93E3D-1D8A-43F3-8039-C7C26FC3A447/03/2309fbd8/Mesh.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/PrismVertexColors.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/2D_Landscapes/Terrain2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/ArbitraryPrism.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <marker date="1540536140641" expanded="true" signature="0:95" ph="##region" />
+            <marker date="1540536140641" expanded="false" signature="15:83" ph="..." />
+            <marker date="1540536140641" expanded="true" signature="133:6234" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="177:6232" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="192:548" ph="fields" />
+            <marker date="1540536140641" expanded="true" signature="558:2012" ph="abstract_methods" />
+            <marker date="1540536140641" expanded="true" signature="643:754" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="801:1087" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="1136:1312" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="1354:1490" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="1537:1688" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="1740:1992" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="2022:5599" ph="methods" />
+            <marker date="1540536140641" expanded="true" signature="2081:2576" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="2191:2539" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="2648:2768" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="2838:3274" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="2896:3264" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="3347:3455" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="3501:3751" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="3563:3741" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="3794:4190" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="3853:4180" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="4230:4348" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="4385:4657" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="4443:4647" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="4697:4803" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="4846:4960" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5001:5424" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5059:5414" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5468:5579" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5609:6226" ph="ui_event_methods" />
+            <marker date="1540536140641" expanded="true" signature="5666:5760" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5797:5896" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="5928:6036" ph="{...}" />
+            <marker date="1540536140641" expanded="true" signature="6068:6206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Interfaces/ISceneRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <marker date="1540536140638" expanded="true" signature="0:102" ph="##region" />
+            <marker date="1540536140638" expanded="false" signature="15:90" ph="..." />
+            <marker date="1540536140638" expanded="true" signature="133:396" ph="{...}" />
+            <marker date="1540536140638" expanded="true" signature="171:394" ph="{...}" />
+            <marker date="1540536140638" expanded="true" signature="265:360" ph="///     Renders all procedural meshes in the scene ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Triangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <marker date="1540536140643" expanded="true" signature="0:39" ph="##region" />
+            <marker date="1540536140643" expanded="true" signature="77:1202" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="113:1200" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="239:319" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="366:513" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="562:927" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="640:770" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="787:917" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="974:994" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="1041:1061" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="1103:1123" ph="{...}" />
+            <marker date="1540536140643" expanded="true" signature="1174:1194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Terrain/3D_Landscape/Landscape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <marker date="1540535213712" expanded="true" signature="0:107" ph="##region" />
+            <marker date="1540535213712" expanded="false" signature="15:95" ph="..." />
+            <marker date="1540535213712" expanded="true" signature="156:3129" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="197:3127" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="212:584" ph="fields" />
+            <marker date="1540535213712" expanded="true" signature="594:2120" ph="abstract methods" />
+            <marker date="1540535213712" expanded="true" signature="679:827" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="874:1047" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="1095:1515" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="1218:1505" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="1287:1462" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="1557:1801" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="1852:2100" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="2130:3121" ph="methods" />
+            <marker date="1540535213712" expanded="true" signature="2207:2682" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="2361:2672" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="2738:2883" ph="{...}" />
+            <marker date="1540535213712" expanded="true" signature="2937:3101" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Tetrahedron.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <marker date="1533379531192" expanded="true" signature="36:1397" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="75:1395" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="141:296" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="343:937" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="985:1123" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="1169:1189" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="1236:1256" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="1298:1318" ph="{...}" />
+            <marker date="1533379531192" expanded="true" signature="1369:1389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Cuboid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1540535213783" expanded="true" signature="0:61" ph="##region" />
+            <marker date="1540535213783" expanded="false" signature="15:49" ph="..." />
+            <marker date="1540535213783" expanded="true" signature="99:7072" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="133:7070" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="148:231" ph="properties" />
+            <marker date="1540535213783" expanded="true" signature="241:558" ph="fields" />
+            <marker date="1540535213783" expanded="true" signature="568:1939" ph="abstract_Methods" />
+            <marker date="1540535213783" expanded="true" signature="653:930" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="694:888" ph="/* 6 faces * (3 vertices / triangle) * (2 triangles / face) =&gt; 36, ... */" />
+            <marker date="1540535213783" expanded="true" signature="977:1023" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1070:1467" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1515:1653" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1699:1719" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1766:1786" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1828:1848" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1899:1919" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="1949:7064" ph="methods" />
+            <marker date="1540535213783" expanded="true" signature="2009:2533" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="2578:3024" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="3068:3592" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="3635:4159" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="4203:4727" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="4773:5297" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="5337:5403" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="5444:5916" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="5952:6783" ph="{...}" />
+            <marker date="1540535213783" expanded="true" signature="6826:7044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Quad.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1533379528216" expanded="true" signature="36:1242" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="68:1240" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="83:453" ph="methods" />
+            <marker date="1533379528216" expanded="true" signature="143:433" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="463:1234" ph="abstract_methods" />
+            <marker date="1533379528216" expanded="true" signature="548:628" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="675:761" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="809:948" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="994:1014" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="1061:1081" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="1123:1143" ph="{...}" />
+            <marker date="1533379528216" expanded="true" signature="1194:1214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Tools/NoiseGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <marker date="1540535664989" expanded="true" signature="0:66" ph="##region" />
+            <marker date="1540535664989" expanded="false" signature="15:54" ph="..." />
+            <marker date="1540535664989" expanded="true" signature="92:1493" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="126:1491" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="141:341" ph="fields" />
+            <marker date="1540535664989" expanded="true" signature="351:689" ph="constructor" />
+            <marker date="1540535664989" expanded="true" signature="403:423" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="515:669" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="699:1485" ph="methods" />
+            <marker date="1540535664989" expanded="true" signature="752:805" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="872:986" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="1054:1465" ph="{...}" />
+            <marker date="1540535664989" expanded="true" signature="1149:1424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Polygon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <marker date="1540535213688" expanded="true" signature="0:39" ph="##region" />
+            <marker date="1540535213688" expanded="true" signature="77:2078" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="112:2076" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="245:540" ph="properties" />
+            <marker date="1540535213688" expanded="true" signature="295:388" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="421:520" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="550:2070" ph="abstract_methods" />
+            <marker date="1540535213688" expanded="true" signature="635:741" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="788:1185" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="920:1175" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="1233:1784" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="1352:1587" ph="/* define shape, based on calculated vertices ... */" />
+            <marker date="1540535213688" expanded="true" signature="1640:1774" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="1830:1850" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="1897:1917" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="1959:1979" ph="{...}" />
+            <marker date="1540535213688" expanded="true" signature="2030:2050" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/GeometricTriangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <marker date="1540535289999" expanded="true" signature="0:73" ph="##region" />
+            <marker date="1540535289999" expanded="false" signature="15:61" ph="..." />
+            <marker date="1540535289999" expanded="true" signature="104:859" ph="{...}" />
+            <marker date="1540535289999" expanded="true" signature="142:857" ph="{...}" />
+            <marker date="1540535289999" expanded="true" signature="459:650" ph="{...}" />
+            <marker date="1540535289999" expanded="true" signature="706:851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Structures/Heightmap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1540535665020" expanded="true" signature="29:862" ph="{...}" />
+            <marker date="1540535665020" expanded="true" signature="58:860" ph="{...}" />
+            <marker date="1540535665020" expanded="true" signature="73:307" ph="methods" />
+            <marker date="1540535665020" expanded="true" signature="159:287" ph="{...}" />
+            <marker date="1540535665020" expanded="true" signature="317:487" ph="properties" />
+            <marker date="1540535665020" expanded="true" signature="497:854" ph="contructor" />
+            <marker date="1540535665020" expanded="true" signature="543:644" ph="{...}" />
+            <marker date="1540535665020" expanded="true" signature="717:834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Manager/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <marker date="1540535289994" expanded="true" signature="0:66" ph="##region" />
+            <marker date="1540535289994" expanded="false" signature="15:54" ph="..." />
+            <marker date="1540535289994" expanded="true" signature="94:1249" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="212:1247" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="275:313" ph="properties" />
+            <marker date="1540535289994" expanded="true" signature="323:652" ph="unity_methods" />
+            <marker date="1540535289994" expanded="true" signature="413:494" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="569:632" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="662:1241" ph="methods" />
+            <marker date="1540535289994" expanded="true" signature="687:797" ph="///     applies all essential procedures for rendering the meshes ... " />
+            <marker date="1540535289994" expanded="true" signature="844:1046" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="907:1034" ph="{...}" />
+            <marker date="1540535289994" expanded="true" signature="1099:1221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Shapes/Primitives/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+          <folding>
+            <marker date="1540536359869" expanded="true" signature="0:141" ph="##region" />
+            <marker date="1540536359869" expanded="true" signature="15:129" ph="..." />
+            <marker date="1540536359869" expanded="true" signature="179:6232" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="362:6230" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="377:626" ph="fields" />
+            <marker date="1540536359869" expanded="true" signature="636:1316" ph="properties" />
+            <marker date="1540536359869" expanded="true" signature="1326:4381" ph="abstractMethods" />
+            <marker date="1540536359869" expanded="true" signature="1359:1451" ph="///     set the meshs vertex and triangle count ... " />
+            <marker date="1540536359869" expanded="true" signature="1522:1611" ph="///     calculates the meshs verticies order ... " />
+            <marker date="1540536359869" expanded="true" signature="1668:1782" ph="///     calculates triangle order based on the mesh's verticies order ... " />
+            <marker date="1540536359869" expanded="true" signature="1966:3670" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="2329:3606" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="3778:4309" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="3915:4299" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="4391:6224" ph="methods" />
+            <marker date="1540536359869" expanded="true" signature="4416:4527" ph="///     handles essential mesh calculations (verts, tris, uvs,...) ... " />
+            <marker date="1540536359869" expanded="true" signature="4568:4790" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="4858:4982" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="4992:5086" ph="///     initialises mesh filter and mesh renderer ... " />
+            <marker date="1540536359869" expanded="true" signature="5127:5367" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="5378:5488" ph="///     applies mesh data to the actual unity mesh to be rendered ... " />
+            <marker date="1540536359869" expanded="true" signature="5551:5913" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="5978:6056" ph="{...}" />
+            <marker date="1540536359869" expanded="true" signature="6126:6204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

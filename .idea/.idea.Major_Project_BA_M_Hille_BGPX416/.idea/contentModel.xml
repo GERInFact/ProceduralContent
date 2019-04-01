@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\_Development\Unity_Projects\Major_Project_BA_M_Hille_BGPX416" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\_Scripts" t="Include">
+        <e p="Interfaces" t="Include">
+          <e p="ISceneRenderer.cs" t="Include" />
+        </e>
+        <e p="Manager" t="Include">
+          <e p="GameManager.cs" t="Include" />
+        </e>
+        <e p="Shapes" t="Include">
+          <e p="Primitives" t="Include">
+            <e p="ArbitraryPrism.cs" t="Include" />
+            <e p="Cuboid.cs" t="Include" />
+            <e p="Polygon.cs" t="Include" />
+            <e p="Quad.cs" t="Include" />
+            <e p="Shape.cs" t="Include" />
+            <e p="Tetrahedron.cs" t="Include" />
+            <e p="Triangle.cs" t="Include" />
+          </e>
+          <e p="Terrain" t="Include">
+            <e p="2D_Landscapes" t="Include">
+              <e p="Terrain2D.cs" t="Include" />
+            </e>
+            <e p="3D_Landscape" t="Include">
+              <e p="Landscape.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Structures" t="Include">
+          <e p="GeometricTriangle.cs" t="Include" />
+          <e p="Heightmap.cs" t="Include" />
+        </e>
+        <e p="Tools" t="Include">
+          <e p="NoiseGenerator.cs" t="Include" />
+          <e p="NormalDisplayer.cs" t="Include" />
+          <e p="SceneCreator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\AssetStore" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="Jupiter" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Textures and Sprites" t="Include">
+          <e p="SF UI" t="Include">
+            <e p="Background" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Materials" t="Include">
+        <e p="AssetStore" t="Include">
+          <e p="UI-Default-No-Alpha.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Shaders" t="Include">
+        <e p="PrismVertexColors.shader" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Major_Project_BA_M_Hille_BGPX416.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Marci\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Major_Project_BA_M_Hille_BGPX416.1161581241.00" t="ExcludeRecursive" />
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths>
+      <Path>Temp</Path>
+      <Path>Library</Path>
+    </excludedPaths>
+  </component>
+</project>
